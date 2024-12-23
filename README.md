@@ -1,2 +1,2 @@
 # Chess-with-ai-engine
-my project i did by my self to improve my skills
+my project i did by myself to improve my skills
